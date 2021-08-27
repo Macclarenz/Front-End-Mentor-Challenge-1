@@ -146,6 +146,10 @@ body {
 
         border-radius: 1rem 1rem 0 0;
     }
+    
+    .picture::before {
+        border-radius: 1rem 1rem 0 0;   
+    }
 
     .main-detail {
         margin: 2.5em auto;
